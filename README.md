@@ -207,6 +207,31 @@ A curated list of retrieval-augmented generation (RAG) in large language models
 
 ## Tools
 
+<!-- Tool Template
+- **Name**  
+  *Description*  
+  [`[Website]`](Link)
+-->
+
+- **LangChain**  
+  *LangChain is a framework for developing applications powered by language models.*  
+  [`[Website]`](https://www.langchain.com/)
+
+- **LlamaIndex**  
+  *LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models.*  
+  [`[Website]`](https://www.llamaindex.ai/)
+
+- **Verba**  
+  *Verba is an open-source application designed to offer an end-to-end, streamlined, and user-friendly interface for Retrieval-Augmented Generation (RAG) out of the box.*  
+  [`[Website]`](https://verba.weaviate.io/)
+
+- **NEUM**  
+  *Open-source RAG framework optimized for large-scale and real-time data.*  
+  [`[Website]`](https://www.neum.ai/)
+
+- **Unstructured**  
+  *Unstructured.io offers a powerful toolkit that handles the ingestion and data preprocessing step, allowing you to focus on the more exciting downstream steps in your machine learning pipeline. Unstructured has over a dozen data connectors that easily integrate with various data sources, including AWS S3, Discord, Slack, Wikipedia, and more.*  
+  [`[Website]`](https://unstructured.io/)
 
 ## Other Collections
 
