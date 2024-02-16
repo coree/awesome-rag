@@ -1,5 +1,5 @@
 # Awesome RAG
-A curated list of retrieval-augmented generation (RAG) in large language models
+A curated list of retrieval-augmented generation (RAG) in large language models.
 
 
 ![cc](https://github.com/coree/awesome-rag/assets/5042747/de9c3103-3959-4942-9a52-02156c4bf3a4)
