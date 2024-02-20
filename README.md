@@ -24,6 +24,9 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   [`[Paper]`](Link) [`[Code]`](Link) [`[Blog]`](Link) 
 -->
 
+<!-- Citation Count Badge
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F[SEMANTIC_SCHOLAR_PAPER_ID]%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+-->
 ### Survey
 
 **2024**
@@ -178,6 +181,10 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   *Karpukhin et al.* (2020) `[EMNLP]` `[Training]`    
   [`[Paper]`](https://arxiv.org/abs/2004.04906) [`[Code]`](https://github.com/facebookresearch/DPR)
 
+- **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
+  *Lewis et al.* (2020) `[NeurIPS]`  
+  [`[Paper]`](https://arxiv.org/abs/2005.11401) [`[HuggingFace]`](https://huggingface.co/facebook/rag-token-nq) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F58ed1fbaabe027345f7bb3a6312d41c5aac63e22%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 
 ## Resources
 
@@ -209,7 +216,11 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   *Asai et al.* (2023) `[Tutorial]`  `[ACL]`  
   [`[Website]`](https://acl2023-retrieval-lm.github.io/) [`[Video]`](https://us06web.zoom.us/rec/play/6fqU9YDLoFtWqpk8w8I7oFrszHKW6JkbPVGgHsdPBxa69ecgCxbmfP33asLU3DJ74q5BXqDGR2ycOTFk.93teqylfi_uiViNK?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FNrYheXPtE5zOlbogmdBg653RIu7RBO1uAsYH2CZt_hacD1jOHksRahGlERHc_Ybs.KGX1cRVtJBQtJf0o)
 
+- **Advanced RAG Techniques: an Illustrated Overview**  
+  *Ivan Ilin* (2023) `[Tutorial]`   
+  [`[Blog]`](https://towardsai.net/p/machine-learning/advanced-rag-techniques-an-illustrated-overview)
 
+  
 ## Tools
 
 <!-- Tool Template
