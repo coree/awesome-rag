@@ -255,3 +255,5 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - [Awesome RAG](https://github.com/frutik/Awesome-RAG)
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
+- [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
+
