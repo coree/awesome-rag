@@ -78,9 +78,6 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - **Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute**  
 [`Paper`](https://arxiv.org/abs/2301.10448)  `PMLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5db8c4cc8742f410d6c40a3f23eeb4739d10d0fe%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
-- **Improving language models by retrieving from trillions of tokens**   
-[`Paper`](https://arxiv.org/abs/2112.04426) [`Blog`](https://deepmind.google/discover/blog/improving-language-models-by-retrieving-from-trillions-of-tokens/) `PMLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F002c256d30d6be4b23d365a8de8ae0e67e4c9641%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
-
 - **Universal Information Extraction with Meta-Pretrained Self-Retrieval**   
 [`Paper`](https://aclanthology.org/2023.findings-acl.251/) [`Code`](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/metaretriever) `ACL` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fac902460f17c3dedf40241917a86f48c4e30dd30%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
@@ -94,6 +91,9 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 [`Paper`](https://arxiv.org/abs/2212.01349) [`Code`](https://github.com/facebookresearch/NPM) `ACL` `Training` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9492ee1435e183cb62b65d8d7f39be0dfd17377a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
 **2022**
+
+- **Improving language models by retrieving from trillions of tokens**   
+[`Paper`](https://arxiv.org/abs/2112.04426) [`Blog`](https://deepmind.google/discover/blog/improving-language-models-by-retrieving-from-trillions-of-tokens/) `PMLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F002c256d30d6be4b23d365a8de8ae0e67e4c9641%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
 - **Recitation-Augmented Language Models**  
 [`Paper`](https://arxiv.org/abs/2210.01296) [`Code`](https://github.com/Edward-Sun/RECITE) `ICLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fed99a2572fb5f4240aa6068e3bf274832e831306%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
