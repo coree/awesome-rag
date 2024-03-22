@@ -54,7 +54,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - **Active Retrieval Augmented Generation**  
 [`Paper`](https://arxiv.org/abs/2305.06983) [`Code`](https://github.com/jzbjyb/FLARE) `EMNLP` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F88884b8806262a4095036041e3567d450dba39f7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
-- **REPLUG: Retrieval-Augmented Black-Box Language Models**  
+- ⭐ **REPLUG: Retrieval-Augmented Black-Box Language Models**  
 [`Paper`](https://arxiv.org/abs/2301.12652) `arXiv` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F07b14c24833400b79978b0a5f084803337e30a15%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
 - **Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**  
@@ -98,7 +98,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - **Recitation-Augmented Language Models**  
 [`Paper`](https://arxiv.org/abs/2210.01296) [`Code`](https://github.com/Edward-Sun/RECITE) `ICLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fed99a2572fb5f4240aa6068e3bf274832e831306%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
-- **Atlas: Few-shot Learning with Retrieval Augmented Language Models**  
+- ⭐ **Atlas: Few-shot Learning with Retrieval Augmented Language Models**  
 [`Paper`](https://arxiv.org/abs/2208.03299) [`Code`](https://github.com/facebookresearch/atlas) [`Blog`](https://research.facebook.com/blog/2023/1/atlas-few-shot-learning-with-retrieval-augmented-language-models/) `Training` `JMLR` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F398e4061dde8f5c80606869cebfa2031de7b5b74%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
 - **You can't pick your neighbors, or can you? When and how to rely on retrieval in the kNN-LM**  
@@ -131,7 +131,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 
 **2020**
 
-- **REALM: Retrieval-Augmented Language Model Pre-Training**  
+- ⭐ **REALM: Retrieval-Augmented Language Model Pre-Training**  
 [`Paper`](https://arxiv.org/abs/2002.08909) [`Code`](https://github.com/google-research/language/blob/master/language/realm/README.md) [`HuggingFace`](https://huggingface.co/docs/transformers/model_doc/realm) `PMLR` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F832fff14d2ed50eb7969c4c4b976c35776548f56%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
 - **Generalization through Memorization: Nearest Neighbor Language Models**  
@@ -143,7 +143,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - **Dense Passage Retrieval for Open-Domain Question Answering**  
 [`Paper`](https://arxiv.org/abs/2004.04906) [`Code`](https://github.com/facebookresearch/DPR) `EMNLP` `Training` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb26f2037f769d5ffc5f7bdcec2de8da28ec14bee%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
-- **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
+- ⭐ **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
 [`Paper`](https://arxiv.org/abs/2005.11401) [`HuggingFace`](https://huggingface.co/facebook/rag-token-nq) `NeurIPS` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F58ed1fbaabe027345f7bb3a6312d41c5aac63e22%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 ## Resources
 
@@ -179,7 +179,9 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   *Ivan Ilin* (2023) `Tutorial`   
   [`Blog`](https://towardsai.net/p/machine-learning/advanced-rag-techniques-an-illustrated-overview)
 
-  
+- **Retrieval Augmented Language Modeling**  
+  *Melissa Dell* (2023) `Lecture`  
+  [`Video`](https://www.youtube.com/watch?v=XC4eFiIMOmY)
 ## Tools
 
 <!-- Tool Template
