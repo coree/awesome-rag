@@ -14,6 +14,7 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
     - [General](#general)
   - [Resources](#resources)
     - [Lectures, Talks, Tutorials](#lectures-talks-tutorials)
+    - [Workshops](#workshops)
   - [Tools](#tools)
   - [Other Collections](#other-collections)
 
@@ -183,6 +184,18 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - **Retrieval Augmented Language Modeling**  
   *Melissa Dell* (2023) `Lecture`  
   [`Video`](https://www.youtube.com/watch?v=XC4eFiIMOmY)
+
+
+### Workshops
+
+**2024**
+
+- **Towards Knowledgeable Language Models**  
+  *Zoey Sha Li, Manling Li, Michael JQ Zhang, Eunsol Choi, Mor Geva, Peter Hase*   
+  @`ACL` 2024, August 12-17  
+  [`Website`](https://knowledgeable-lm.github.io/)
+
+
 ## Tools
 
 <!-- Tool Template
