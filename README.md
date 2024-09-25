@@ -35,6 +35,10 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 - **Retrieval-Augmented Generation for Large Language Models: A Survey**  
 [`Paper`](https://arxiv.org/pdf/2312.10997.pdf)  [`Code`](https://github.com/Tongji-KGLLM/RAG-Survey) `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
+- **Retrieval-Augmented Generation for Natural Language
+Processing: A Survey**  
+[`Paper`](https://arxiv.org/abs/2407.13193) `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd4a5c2ab2b459426869e1a3ab1550897b005303e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 **2023**
 
 - **Benchmarking Large Language Models in Retrieval-Augmented Generation**  
