@@ -56,6 +56,9 @@ Processing: A Survey**
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
 [`Paper`](https://arxiv.org/abs/2307.07164) [`Code`](https://github.com/microsoft/LMOps/tree/main/llm_retriever) `EACL` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fae22f7c57916562e2729a1a7f34298e4220b77a7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
 
+- **Reliable, Adaptable, and Attributable Language Models with Retrieval**  
+  [`Paper`](https://arxiv.org/abs/2403.03187) `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcfa85c8db829dbd2384ea7f130f462e7e7f1f630%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 **2023**
 - **Active Retrieval Augmented Generation**  
 [`Paper`](https://arxiv.org/abs/2305.06983) [`Code`](https://github.com/jzbjyb/FLARE) `EMNLP` `Architecture` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F88884b8806262a4095036041e3567d450dba39f7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
