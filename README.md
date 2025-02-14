@@ -195,6 +195,14 @@ Processing: A Survey**
 
 ### Workshops
 
+**2025**
+
+- **MAGMaR - The 1st Workshop on Multimodal Augmented Generation via MultimodAl Retrieval**  
+  *Reno Kriz, Kenton Murray, Eugene Yang, Francis Ferraro, Kate Sanders, Cameron Carpenter, Benjamin Van Durme*   
+  @`ACL` 2025, July 31st - August 1st  
+  [`Website`](https://nlp.jhu.edu/magmar)
+
+
 **2024**
 
 - **Towards Knowledgeable Language Models**  
