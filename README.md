@@ -154,9 +154,16 @@ Processing: A Survey**
 
 - ⭐ **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**  
 [`Paper`](https://arxiv.org/abs/2005.11401) [`HuggingFace`](https://huggingface.co/facebook/rag-token-nq) `NeurIPS` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F58ed1fbaabe027345f7bb3a6312d41c5aac63e22%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 ## Resources
 
 ### Lectures, Talks, Tutorials
+
+**2025**
+
+- **System Designer - RAG Systems Interactive Learning**  
+[`Platform`](https://systemdesigner.net/genai)  
+Comprehensive interactive learning platform for RAG systems with 32 GenAI lessons covering vector databases (Pinecone, Weaviate, Qdrant, Milvus), embedding strategies, retrieval optimization, hybrid search, re-ranking, and RAG evaluation metrics. Features AI tutor for personalized learning, collaborative whiteboards for RAG architecture design, quizzes, and hands-on projects to build production RAG systems.
 
 **2024**
 
