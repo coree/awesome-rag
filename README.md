@@ -235,6 +235,10 @@ Processing: A Survey**
   *Open-source RAG framework optimized for large-scale and real-time data.*  
   [`Website`](https://www.neum.ai/)
 
+- **Kiln**  
+  *Open-source application to build and evaluate production-ready RAG pipelines.*  
+  [`Website`](https://kiln.tech) [`GitHub`](https://github.com/Kiln-AI/Kiln)
+
 - **Unstructured**  
   *Unstructured.io offers a powerful toolkit that handles the ingestion and data preprocessing step, allowing you to focus on the more exciting downstream steps in your machine learning pipeline. Unstructured has over a dozen data connectors that easily integrate with various data sources, including AWS S3, Discord, Slack, Wikipedia, and more.*  
   [`Website`](https://unstructured.io/)
