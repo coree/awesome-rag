@@ -51,6 +51,11 @@ Processing: A Survey**
 
 ### General
 
+**2025**
+
+- **ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona Coherence in Generative Agents**
+[`Paper`](https://arxiv.org/abs/2509.25299) [`Code`](https://github.com/flybits/humanai-agents) `arXiv`
+
 **2024**
 
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
