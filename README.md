@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **RAGFlow Optimizer**  
+  *LLM-based parameter optimizer for RAGFlow chunking — automatically finds optimal chunk size, overlap, and parser settings through automated evaluation.*  
+  [`GitHub`](https://github.com/stranger00135/ragflow-optimizer)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
