@@ -218,6 +218,9 @@ Processing: A Survey**
   *Description*  
   [`Website`](Link)
 -->
+- **Rag Enterprise**
+  *100% local RAG system with one-command setup. Self-hosted, GDPR-compliant, supports 10k+ documents across 29 languages. No cloud dependencies.*
+  [`Website`](https://www.i3k.eu) [`GitHub`](https://github.com/I3K-IT/RAG-Enterprise)
 
 - **LangChain**  
   *LangChain is a framework for developing applications powered by language models.*  
@@ -246,6 +249,12 @@ Processing: A Survey**
 - **CocoIndex**  
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
+
+## Engine
+
+- **EuLLM**
+  *Open-source European alternative to Ollama. Rust-based inference engine with EU-hosted model registry, built-in AI Act compliance audit trail, and one-command model verticalization via Forge.
+  [`Website`](https://www.eullm.eu/)[`GitHub`](https://github.com/eullm/eullm)
 
 ## Other Collections
 
