@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **MarkCrawl**  
+  *Turn any website into clean Markdown for RAG pipelines in one command. Crawl, chunk, embed, and upload to Supabase/pgvector — with built-in LLM extraction, MCP server, and LangChain tools.*  
+  [`Website`](https://github.com/AIMLPM/markcrawl) [`GitHub`](https://github.com/AIMLPM/markcrawl)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
