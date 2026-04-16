@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **ZettelForge**  
+  *Agentic memory for cyber threat intelligence. Entity extraction, STIX 2.1 knowledge graph, and intent-classified blended retrieval. Offline-first, `pip install zettelforge`.*  
+  [`GitHub`](https://github.com/rolandpg/zettelforge)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
