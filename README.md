@@ -20,6 +20,9 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
 
 ## Papers
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 <!-- Paper Template
 - **Title**  
   [`Paper`](Link) [`Code`](Link) [`Blog`](Link) `[Tag]` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F[SEMANTIC_SCHOLAR_PAPER_ID]%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)   
