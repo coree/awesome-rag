@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **pdfmux**  
+  *Open-source PDF extraction orchestrator. Routes each page to the best of 5 backends (PyMuPDF, OpenDataLoader, RapidOCR, Docling) with optional BYOK LLM fallback. Per-page confidence scoring catches and re-extracts failures with a stronger backend. Ranks #2 on opendataloader-bench (200 real-world PDFs). Built-in MCP server. Native LangChain + LlamaIndex loaders.*  
+  [`Website`](https://pdfmux.com) [`GitHub`](https://github.com/NameetP/pdfmux)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
