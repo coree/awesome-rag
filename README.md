@@ -231,6 +231,10 @@ Processing: A Survey**
   *Verba is an open-source application designed to offer an end-to-end, streamlined, and user-friendly interface for Retrieval-Augmented Generation (RAG) out of the box.*  
   [`Website`](https://verba.weaviate.io/)
 
+- **Dakera**  
+  *Production-ready persistent memory layer for AI agents, featuring hybrid BM25 + vector retrieval, temporal reasoning, and multi-tenant namespacing. Native integrations with LangChain, LlamaIndex, CrewAI, and AutoGen.*  
+  [`Website`](https://dakera.ai/)
+
 - **NEUM**  
   *Open-source RAG framework optimized for large-scale and real-time data.*  
   [`Website`](https://www.neum.ai/)
@@ -254,4 +258,3 @@ Processing: A Survey**
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
-
