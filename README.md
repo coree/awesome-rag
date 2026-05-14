@@ -18,6 +18,10 @@ A curated list of retrieval-augmented generation (RAG) in large language models.
   - [Tools](#tools)
   - [Other Collections](#other-collections)
 
+- **Dakera**  
+  *Production-ready persistent memory layer for AI agents, featuring hybrid BM25 + vector retrieval, temporal reasoning, and multi-tenant namespacing. Native integrations with LangChain, LlamaIndex, CrewAI, and AutoGen.*  
+  [`GitHub`](https://github.com/dakera-ai/dakera-deploy) [`Website`](https://dakera.ai/)
+
 ## Papers
 
 <!-- Paper Template
