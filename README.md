@@ -51,6 +51,11 @@ Processing: A Survey**
 
 ### General
 
+**2025**
+
+- **QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation**  
+[`Paper`](https://arxiv.org/abs/2512.19134) [`Code`](https://github.com/ZhishanQ/QuCo-RAG) `ACL Findings` `Architecture`
+
 **2024**
 
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
