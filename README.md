@@ -158,6 +158,12 @@ Processing: A Survey**
 
 ### Lectures, Talks, Tutorials
 
+**2026**
+20 Advanced RAG Types to Know in 2026
+Alyona Vert., Turing Post (2026) Article
+[Blog](https://www.turingpost.com/p/20-advanced-rag-types)
+
+
 **2024**
 
 - **Modular RAG and RAG Flow**  
