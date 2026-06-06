@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **TWZRD Agent Intel**  
+  *Trust-scoring MCP server for x402 agents on Solana. Free preflight checks plus signed trust receipts via USDC micropayment (<1s settlement) — lets RAG agents verify tool trustworthiness before committing to a response.*  
+  [`Website`](https://intel.twzrd.xyz) [`MCP`](https://intel.twzrd.xyz/mcp)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
@@ -254,4 +258,3 @@ Processing: A Survey**
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
-
