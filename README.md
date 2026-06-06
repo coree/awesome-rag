@@ -219,6 +219,10 @@ Processing: A Survey**
   [`Website`](Link)
 -->
 
+- **TWZRD Agent Intel**  
+  *MCP server for AI agent trust scoring on Solana. Pre-dispatch trust gating, on-chain agent scoring, and signed V5 receipts. Zero-install via Streamable HTTP.*  
+  [`Website`](https://intel.twzrd.xyz) [`PyPI`](https://pypi.org/project/twzrd-agent-intel/)
+
 - **LangChain**  
   *LangChain is a framework for developing applications powered by language models.*  
   [`Website`](https://www.langchain.com/)
