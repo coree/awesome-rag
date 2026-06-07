@@ -254,4 +254,5 @@ Processing: A Survey**
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques): A comprehensive collection of advanced Retrieval-Augmented Generation techniques, each with a detailed runnable notebook tutorial - query transformations, reranking, contextual retrieval, GraphRAG, and more
 
