@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Remio**  
+  *Remio is a local-first personal knowledge base that pre-parses files, webpages, recordings, notes, emails, messages, and images into indexed and vector-retrievable context for RAG and agent workflows, reducing repeated raw-file scans and context-token cost.*  
+  [`Website`](https://remio.ai/)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
@@ -254,4 +258,3 @@ Processing: A Survey**
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
-
