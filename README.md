@@ -251,6 +251,7 @@ Processing: A Survey**
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
 - [Awesome RAG](https://github.com/frutik/Awesome-RAG)
+- [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production): Battle-tested tools, reference architectures, and best practices for production-grade RAG systems
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
