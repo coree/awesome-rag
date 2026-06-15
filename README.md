@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Superhighway**  
+  *Web search API designed for AI agents and RAG pipelines — returns live web results, news, images, and full scraped page content; supports x402 USDC pay-per-call (no signup) or a free API key tier.*  
+  [`Website`](https://superhighway.walls.sh) [`LangChain guide`](https://superhighway.walls.sh/guides/web-search-langchain)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
