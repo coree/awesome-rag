@@ -249,7 +249,7 @@ Processing: A Survey**
 
 - **Superhighway**  
   *Web search API designed for AI agents and RAG pipelines — returns live web results, news, images, and full scraped page content; supports x402 USDC pay-per-call (no signup) or a free API key tier.*  
-  [`Website`](https://superhighway.walls.sh) [`LangChain guide`](https://superhighway.walls.sh/guides/web-search-langchain)
+  [`Website`](https://superhighway.walls.sh) [`Integration guides`](https://superhighway.walls.sh/guides)
 
 ## Other Collections
 
