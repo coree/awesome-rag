@@ -51,6 +51,11 @@ Processing: A Survey**
 
 ### General
 
+**2025**
+
+- **ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge**  
+[`Paper`](https://aclanthology.org/2025.emnlp-main.739/) [`Code`](https://github.com/ANGEL-NTU/ESGenius) [`Data`](https://huggingface.co/datasets/cy0307/ESGenius) `EMNLP` `Benchmark` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7a6911ceac3c4ef985a4bb16507315316df0603e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 **2024**
 
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
