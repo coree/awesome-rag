@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **khazad**  
+  *Transparent semantic cache for LLM API calls, powered by Redis Vector Sets. Cuts cost and latency by returning cached responses for semantically similar queries.*  
+  [`GitHub`](https://github.com/GuglielmoCerri/khazad)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
