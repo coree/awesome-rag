@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Off Grid AI Desktop**  
+  *Open-source macOS app for local, on-device RAG and memory search over your own data. Runs a local LLM for chat via llama.cpp, plus image generation and whisper transcription, all on-device with nothing routed to the cloud.*  
+  [`Website`](https://getoffgridai.co/desktop) [`GitHub`](https://github.com/off-grid-ai/off-grid-ai-desktop)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
