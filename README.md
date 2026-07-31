@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Zoom Search**  
+  *A Python MCP server and search toolkit for query rewriting, source exploration, and cited answers in RAG and agent workflows.*  
+  [`GitHub`](https://github.com/goofrey/zoom-search)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
@@ -254,4 +258,3 @@ Processing: A Survey**
 - [Awesome LLM with RAG](https://github.com/HKUST-AI-Lab/Awesome-LLM-with-RAG)
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome LLM Reader](https://github.com/HITsz-TMG/awesome-llm-reader): A Repository of Retrieval-augmented LLMs
-
