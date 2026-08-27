@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Hybrid RAG Action**  
+  *Open-source GitHub Action providing hybrid lexical (Okapi BM25) and dense semantic vector retrieval with Reciprocal Rank Fusion (RRF) for repository issue and PR triage.*  
+  [`GitHub`](https://github.com/Cagrik34/hybrid-rag-action) [`Marketplace`](https://github.com/marketplace/actions/hybrid-rag-issue-pr-assistant)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
