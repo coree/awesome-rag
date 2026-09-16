@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Pixeltable**  
+  *Declarative multimodal AI data engine for tables, computed columns, embedding search, and production RAG pipelines with automatic incremental updates.*  
+  [`Website`](https://pixeltable.com/) [`GitHub`](https://github.com/pixeltable/pixeltable)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
