@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **RAG-LCC**  
+  *RAG-LCC is an experimental offline-first RAG lab with hybrid retrieval (Vector+BM25+Graph+Regex), orchestration flow control, grounded outputs, and explicit confidence signals.*  
+  [`Website`](https://github.com/HarinezumIgel/RAG-LCC)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
