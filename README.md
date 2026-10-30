@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **Quivr**  
+  *Quivr is an open-source engine for content that keeps arriving: versioned ingestion, hybrid keyword and semantic search that cites the exact passage, topic alerts, and an MCP server for AI agents.*  
+  [`GitHub`](https://github.com/The-Vibe-Company/quivr)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
