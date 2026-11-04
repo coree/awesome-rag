@@ -51,6 +51,19 @@ Processing: A Survey**
 
 ### General
 
+**2026**
+
+- **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation**  
+[`Paper`](https://arxiv.org/abs/2606.27786) [`Code`](https://github.com/OpenBMB/SPARK) `arXiv` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa6aa68407fc8fcd5865285a6285cf189ab66ba32%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
+**2025**
+
+- **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**  
+[`Paper`](https://arxiv.org/abs/2502.15543) [`Code`](https://github.com/OpenBMB/ParamMute) `NeurIPS` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcb2afbc72cb0a90be167252faee9df999dc1dbf7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
+- **ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance**  
+[`Paper`](https://arxiv.org/abs/2502.17057) [`Code`](https://github.com/NEUIR/ExpandR) `EMNLP` `Training` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6d85ceb896efd90abf218a0f6d0c88081ed32394%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 **2024**
 
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
