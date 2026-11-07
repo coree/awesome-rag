@@ -51,6 +51,11 @@ Processing: A Survey**
 
 ### General
 
+**2026**
+
+- **FreeRet: MLLMs as Training-Free Retrievers**
+  [`Paper`](https://proceedings.mlr.press/v306/zhu26ba.html) [`Code`](https://github.com/MCG-NJU/FreeRet) `ICML 2026`
+
 **2024**
 
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
