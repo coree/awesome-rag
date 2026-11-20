@@ -51,6 +51,11 @@ Processing: A Survey**
 
 ### General
 
+**2025**
+
+- **Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems**  
+[`Paper`](https://arxiv.org/abs/2511.01268) [`Code`](https://github.com/SecAI-Lab/RAGDefender) `ACSAC` `Security` ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FarXiv%3A2511.01268%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)
+
 **2024**
 
 - **Learning to Retrieve In-Context Examples for Large Language Models**  
