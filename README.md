@@ -247,6 +247,10 @@ Processing: A Survey**
   *CocoIndex is an open-source ETL framework to index data for AI, such as RAG; with realtime incremental updates and support custom logic like lego.*  
   [`Website`](https://cocoindex.io/)
 
+- **ApeMind**  
+  *Enterprise RAG, knowledge base, and AI agent platform combining vector, full-text, knowledge graph, and multimodal retrieval with configurable document parsing (MinerU, Mistral OCR, LlamaParse), MCP integration, agent evaluation, and private deployment.*  
+  [`Website`](https://apemind.ai/) [`Docs`](https://apemind.ai/docs) [`Open-Source Core`](https://github.com/apecloud/ApeRAG)
+
 ## Other Collections
 
 - [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
